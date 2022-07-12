@@ -1,5 +1,5 @@
 # ignore source material
 source_material
 
-#all text files
-.txt
+#text files
+test.txt
