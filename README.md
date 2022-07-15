@@ -23,3 +23,6 @@ attributes have the highest impact on the prediction power the models.
 - Random Forest Regression
 - XGBoost Regresion
 
+### Presentation
+
+You can find the Thesis presentation [here](https://drive.google.com/file/d/1tsXn3CrYMkP5tWAhnaMeomXgF6ip3LqD/view?usp=sharing).
